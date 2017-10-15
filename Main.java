@@ -94,7 +94,14 @@ public class Main {
 		        	 }
 	        	 }
 	         }
+
 	         return wordlist;//githubwer
+
+	         //github123
+
+	         //github+123456
+
+
 	         
 	 }
 
