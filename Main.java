@@ -1,7 +1,7 @@
 ﻿package hello2;
 import java.io.*;
 import java.util.Scanner;
-
+// FSDA
 class EdgeElement {  
     String fromvex;  
     String endvex;  
