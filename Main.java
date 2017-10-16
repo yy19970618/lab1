@@ -1,7 +1,7 @@
 ﻿package hello2;
 import java.io.*;
 import java.util.Scanner;
-// FSDA
+
 class EdgeElement {  
     String fromvex;  
     String endvex;  
@@ -12,7 +12,8 @@ class EdgeElement {
         endvex=v2;  
         weight=wgt;  
     }     
-} 
+
+
 class Graph{
 	int G[][];
 	String unitword[];
@@ -95,14 +96,10 @@ public class Main {
 	        	 }
 	         }
 
+
 	         return wordlist;//githubwer
-
 	         //github123
-
 	         //github+123456
-
-
-	         
 	 }
 
 	 public static void CreatGraph(String wordlist[]){
